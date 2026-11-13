@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alhakemi209_max.twa",
+        "sha256_cert_fingerprints": ["C8:45:29:30:73:36:92:14:BC:DE:0B:93:18:99:6A:BB:C5:DA:04:D4:56:5E:29:37:B6:6E:9D:36:57:70:56:46"]
+      }
+    }]
